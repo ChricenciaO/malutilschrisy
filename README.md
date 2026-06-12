@@ -14,7 +14,8 @@ The goal of malutilschrisy is to …
 You can install the development version of malutilschrisy like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install package
+devtools::install_github("ChricenciaO/malutilschrisy")
 ```
 
 ## Example
